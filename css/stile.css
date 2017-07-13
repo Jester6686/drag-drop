@@ -1,0 +1,22 @@
+
+.workspase{
+    width: 80%;
+    height: 600px;
+    margin: 20px 10%;
+    border: solid 2px black;
+}
+
+#bag{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin: 20px;
+}
+#trunk{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 20px;
+}
